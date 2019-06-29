@@ -1,0 +1,70 @@
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+
+}
+
+.day-title {
+  width: 100%;
+  height: 100%;
+}
+
+.title-wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-wrapper h1 {
+  margin: 0px;
+  padding: 0px;
+  font-family: arial;
+  color: #686AB2;
+  letter-spacing: 7px;
+  font-size: 70px;
+}
+
+.include-wrapper {
+  min-width: 100%;
+  height: 100%;
+}
+
+.typed-cursor {
+  font-size: 55px;
+  height: 70px;
+}
+
+.sunday {
+    background: #f3d179;
+    opacity: 0.9;
+}
+
+.monday {
+  background: #f46060;
+  opacity: 0.9;
+}
+
+.tuesday {
+    background:rgba(227, 175, 255, 0.9);
+}
+.wednesday {
+    background: #dce8ba;
+    opacity: 0.9;
+}
+.thursday {
+  background: #f09872;
+  opacity: 0.94;
+}
+.friday {
+    background: #6fc2d0;
+    opacity: 0.9;
+}
+.saturday {
+    background: #83d691;
+    opacity: 0.9;
+}
