@@ -50,7 +50,8 @@ html, body {
 }
 
 .tuesday {
-    background:rgba(227, 175, 255, 0.9);
+    background: #e3afff;
+    opacity: 0.9;
 }
 .wednesday {
     background: #dce8ba;

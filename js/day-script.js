@@ -6,7 +6,7 @@ var n = d.getDay();
   if (n == 0) {
     $(".include-wrapper").addClass("sunday");
   } else if (n == 1) {
-    $("..include-wrapper").addClass("monday");
+    $(".include-wrapper").addClass("monday");
   } else if (n == 2) {
     $(".include-wrapper").addClass("tuesday");
   } else if (n == 3) {
